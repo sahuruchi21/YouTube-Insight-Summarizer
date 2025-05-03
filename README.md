@@ -22,12 +22,11 @@ An AI-powered Streamlit app that takes a YouTube video URL, extracts the transcr
 
 ```bash
 git clone https://github.com/your-username/YouTube-Insight-Summarizer.git
-cd YouTube-Insight-Summarizer
-pip install -r requirements.txt
+cd YouTube-Insight-S Usage
 
-## **Usage**
-Once you've set up the project, run the app locally with:
+Once you have installed the dependencies, you can run the application locally using the following command in your terminal:
 
-```bash
-streamlit run main.py
+streamlit run main.pyummarizer
+
+
 
