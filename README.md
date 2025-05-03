@@ -18,6 +18,7 @@ An AI-powered Streamlit app that takes a YouTube video URL, extracts the transcr
 - [YouTube Transcript API](https://pypi.org/project/youtube-transcript-api/)
 - Python 3.8+
 
+
 ## 📦 Installation
 
 ```bash
@@ -28,5 +29,13 @@ Once you have installed the dependencies, you can run the application locally us
 
 streamlit run main.pyummarizer
 
+## 📤 Deployment / Development Notes
+
+After modifying or adding new files (like `requirements.txt`), use the following Git commands to commit and push your changes:
+
+```bash
+git add requirements.txt
+git commit -m "Add requirements.txt with all dependencies"
+git push origin main  # or use your branch name if different
 
 
