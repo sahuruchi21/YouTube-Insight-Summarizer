@@ -9,9 +9,7 @@ An AI-powered Streamlit app that takes a YouTube video URL, extracts the transcr
 - Outputs math-heavy content using clean LaTeX blocks
 - User-friendly interface built with Streamlit
 
-## 🚀 Demo
 
-![App Screenshot](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)
 
 ## 🛠️ Tech Stack
 
