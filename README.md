@@ -25,7 +25,7 @@ git clone https://github.com/your-username/YouTube-Insight-Summarizer.git
 cd YouTube-Insight-Summarizer
 pip install -r requirements.txt
 
-##** 🧠 Usage**
+## **Usage**
 Once you've set up the project, run the app locally with:
 
 ```bash
