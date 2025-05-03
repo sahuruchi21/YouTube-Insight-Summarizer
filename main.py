@@ -105,4 +105,4 @@ if video_url:
         st.markdown(enriched_summary, unsafe_allow_html=True)
 
     except Exception as err:
-        st.error(f"❌ {err}") where to add this code
+        st.error(f"❌ {err}") 
