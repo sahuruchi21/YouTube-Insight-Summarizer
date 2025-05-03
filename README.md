@@ -24,3 +24,9 @@ An AI-powered Streamlit app that takes a YouTube video URL, extracts the transcr
 git clone https://github.com/your-username/YouTube-Insight-Summarizer.git
 cd YouTube-Insight-Summarizer
 pip install -r requirements.txt
+## 🧠 Usage
+
+Start the app by running:
+
+```bash
+streamlit run main.py
