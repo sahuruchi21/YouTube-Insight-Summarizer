@@ -38,4 +38,8 @@ git add requirements.txt
 git commit -m "Add requirements.txt with all dependencies"
 git push origin main  # or use your branch name if different
 
+## ⚙️ Configuration
+Before running the app, make sure to set up your Google Gemini API key. You can do this by creating a .env file in the project's root directory and adding your API key:
 
+GOOGLE_API_KEY=YOUR_API_KEY
+Replace YOUR_API_KEY with your actual Gemini API key.
