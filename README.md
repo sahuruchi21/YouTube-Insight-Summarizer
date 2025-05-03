@@ -31,3 +31,4 @@ Once you've set up the project, run the app locally with:
 
 ```bash
 streamlit run main.py
+
