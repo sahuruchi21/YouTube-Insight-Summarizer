@@ -43,6 +43,9 @@ Before running the app, make sure to set up your Google Gemini API key. You can 
 
 GOOGLE_API_KEY=YOUR_API_KEY
 Replace YOUR_API_KEY with your actual Gemini API key.
-
+The recommended model of gemini are:
+1. models/gemini-1.5-flash-latest
+2. models/gemini-1.5-pro-001
+3. models/gemini-1.5-flash
 You can open this screenshot link to see the output of the code.
 ![Screenshot 2025-05-04 193608](https://github.com/user-attachments/assets/c982a8c4-7bab-4573-b348-938982b05e1b)
